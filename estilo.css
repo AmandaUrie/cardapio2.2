@@ -1,0 +1,31 @@
+body,html{
+    margin: auto;
+    border: solid 20px rgb(87, 17, 17);
+    background-color: rgb(235, 171, 134);
+}
+
+#destaque{
+    background-image: url(logo.jpg);
+        text-align: center;
+    color: black;
+    height: 300px;
+}
+
+.item{
+    width: 50%;
+    border: 10px solid rgb(184, 103, 103);
+    float: justify ;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{
+    text-align: center;
+    clear: both;
+
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}

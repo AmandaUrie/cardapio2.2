@@ -7,12 +7,16 @@ body,html{
 #destaque{
     background-image: url(logo.jpg);
         text-align: center;
-    color: black;
+    color: blanchedalmond;
     height: 300px;
+}
+h2{
+        text-align: center;
+    color: black;
 }
 
 .item{
-    width: 50%;
+    width: 95%;
     border: 10px solid rgb(184, 103, 103);
     float: justify ;
     text-align: center;
